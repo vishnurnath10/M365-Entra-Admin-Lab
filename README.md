@@ -114,3 +114,54 @@ MFA · SSPR · Audit Logs
 | 14 | account-disabled | Mike Davis blocked |
 | 15 | ticket-002-documentation | INC-2026-002 ticket |
 | 16 | audit-logs | Full audit trail |
+
+
+## Screenshot Gallery
+
+### Tenant Setup
+![Tenant Setup](screenshots/01-tenant-setup.png)
+
+### Users Created
+![Users Created](screenshots/02-users-created.png)
+
+### Helpdesk Role Assigned
+![Helpdesk Role](screenshots/03-helpdesk-role-assigned.png)
+
+### Security Groups
+![Security Groups](screenshots/04-security-groups.png)
+
+### Entra ID Portal
+![Entra Portal](screenshots/05-entra-portal.png)
+
+### Entra User Profile
+![User Profile](screenshots/06-entra-user-profile.png)
+
+### SSPR Configured
+![SSPR](screenshots/07-sspr-configured.png)
+
+### Authentication Methods
+![Auth Methods](screenshots/08-authentication-methods.png)
+
+### MFA Conditional Access Policy
+![MFA Policy](screenshots/09-mfa-conditional-access.png)
+
+### Named Location Canada
+![Named Location](screenshots/10-named-location-canada.png)
+
+### Block Outside Canada Policy
+![Block Policy](screenshots/11-block-outside-canada.png)
+
+### Password Reset Confirmation
+![Password Reset](screenshots/12-password-reset-confirmation.png)
+
+### Ticket 001 Documentation
+![Ticket 001](screenshots/13-ticket-001-documentation.png)
+
+### Account Disabled
+![Account Disabled](screenshots/14-account-disabled.png)
+
+### Ticket 002 Documentation
+![Ticket 002](screenshots/15-ticket-002-documentation.png)
+
+### Audit Logs
+![Audit Logs](screenshots/16-audit-logs.png)
